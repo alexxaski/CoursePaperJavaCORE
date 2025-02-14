@@ -1,5 +1,6 @@
 package org.skypro.course_paper;
 
+
 public class Question {
     private String question;
     private String answer;
